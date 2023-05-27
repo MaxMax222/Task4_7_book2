@@ -1,0 +1,15 @@
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\Q19.csproj.AssemblyReference.cache
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\Q19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\Q19.AssemblyInfoInputs.cache
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\Q19.AssemblyInfo.cs
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\Q19.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\bin\Debug\net7.0\Q19.exe
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\bin\Debug\net7.0\Q19.deps.json
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\bin\Debug\net7.0\Q19.runtimeconfig.json
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\bin\Debug\net7.0\Q19.dll
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\bin\Debug\net7.0\Q19.pdb
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\Q19.dll
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\refint\Q19.dll
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\Q19.pdb
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\Q19.genruntimeconfig.cache
+C:\Users\zrvma\source\repos\Chapter_10th_grade\Book_2\Chapter_4\Task4_7\Q19\obj\Debug\net7.0\ref\Q19.dll
